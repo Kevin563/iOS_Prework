@@ -1,4 +1,3 @@
 # iOS_Prework
-iOS_Prework
 ===========
-![Video Walkthrough](prework.gif)
+![Video Walkthrough](tip/prework.gif)
